@@ -1,8 +1,8 @@
-# Diabetes Decision Tree & Random Forest Classifier
+# Diabetes Decision Tree & Random Forest Classifier 🩺🌳
 
 This repository focuses on predicting whether a patient has diabetes using data from the National Institute of Diabetes and Digestive and Kidney Diseases. The prediction is performed using a decision tree classifier and a random forest classifier.
 
-## Notebooks
+## Notebooks 📓
 
 All the main code and analysis can be found in the `src` folder. Here's a breakdown of the notebooks:
 
@@ -12,7 +12,7 @@ All the main code and analysis can be found in the `src` folder. Here's a breakd
 
 - [`Diabetes_RandomForest.ipynb`](src/Diabetes_RandomForest.ipynb): This notebook compares the performance, measured by accuracy, of the optimized decision tree classifier with that of a random forest classifier.
 
-## Folders
+## Folders 📁
 
 ### `data/interim/`
 
@@ -29,4 +29,4 @@ Here, you'll find the processed data:
 
 The `models` folder stores the models resulting from the analysis and estimations.
 
-Feel free to explore the notebooks and folders to understand the process and results of predicting diabetes using decision trees and random forests. If you have any questions or suggestions, please don't hesitate to open an issue or contribute to the project. Happy coding!
+Feel free to explore the notebooks and folders to understand the process and results of predicting diabetes using decision trees and random forests. If you have any questions or suggestions, please don't hesitate to open an issue or contribute to the project. Happy coding! 🚀
